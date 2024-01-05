@@ -1,1 +1,1 @@
-#for read only
+# For read only
